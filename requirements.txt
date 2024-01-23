@@ -1,0 +1,9 @@
+csbdeep==0.7.4
+matplotlib==3.8.2
+numpy==1.26.3
+PySimpleGUI==4.60.5
+tifffile==2023.12.9
+tqdm==4.66.1
+tensorflow==2.15.0
+stardist==0.8.5
+notebook==7.0.7
