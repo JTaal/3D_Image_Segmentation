@@ -11,7 +11,7 @@
 This tutorial guides you through the process of training a deep learning model for 3D organoid segmentation. You will learn how to prepare your data, train your model, and predict segmentation masks using the Stardist 3D demo model.
 
 ## Prerequisites
-- Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.9]([https://www.python.org/downloads/release/python-31013/](https://www.python.org/downloads/release/python-3109/))).
+- Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.9]([https://www.python.org/downloads/release/python-31013/](https://www.python.org/downloads/release/python-3109/)).
 - Add python to PATH during setup
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
 
