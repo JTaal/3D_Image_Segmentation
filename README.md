@@ -15,7 +15,9 @@ This tutorial guides you through the process of training a deep learning model f
 - Use default settings (see image below) and add python to PATH during setup.
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
 
-## Optional Features
+## Optional Python Features
+
+- [x] **Add python.exe to PATH** 100% do this, the scripts will not be able to find python otherwise.
 
 - [x] **Documentation**
   _Installs the Python documentation file._
