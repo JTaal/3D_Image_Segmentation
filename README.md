@@ -12,7 +12,7 @@ This tutorial guides you through the process of training a deep learning model f
 
 ## Prerequisites
 - Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.9](https://www.python.org/downloads/release/python-3109/).
-- Use default settings (see image below) and add python to PATH during setup.
+- Use default settings (see Non-optional python features below) and add python to PATH during setup.
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
 
 ## Non-optional Python Features
