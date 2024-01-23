@@ -14,7 +14,25 @@ This tutorial guides you through the process of training a deep learning model f
 - Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.9](https://www.python.org/downloads/release/python-3109/).
 - Use default settings (see image below) and add python to PATH during setup.
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
-![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/f90e0050-fd85-4bfd-b955-dada526fa805)
+
+## Optional Features
+
+- [x] **Documentation**
+  _Installs the Python documentation file._
+
+- [x] **pip**
+  _Installs pip, which can download and install other Python packages._
+
+- [x] **tcl/tk and IDLE**
+  _Installs tkinter and the IDLE development environment._
+
+- [x] **Python test suite**
+  _Installs the standard library test suite._
+
+- [ ] **py launcher** [ ] _for all users (requires admin privileges)_
+  _Installs the global 'py' launcher to make it easier to start Python._
+
+
 
 ## Setup (windows)
 1. Use `start.bat` from the repository
