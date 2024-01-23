@@ -65,6 +65,6 @@ After setting up your environment using `start.bat`, run the Jupyter notebooks i
 
 **The official documentation is on [Stardist Github](https://github.com/stardist/stardist/blob/master/README.md)**
 
-**Integrate Stardist with your current analysis software [GUI support]([https://github.com/stardist/stardist/blob/master/README.md#plugins-for-other-software](https://github.com/stardist/stardist/blob/master/README.md#plugins-for-other-software)https://github.com/stardist/stardist/blob/master/README.md#plugins-for-other-software)**
+**Integrate Stardist with your current analysis software [GUI support](https://github.com/stardist/stardist/blob/master/README.md#plugins-for-other-software)**
 
 
