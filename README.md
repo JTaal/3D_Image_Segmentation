@@ -11,23 +11,43 @@
 This tutorial guides you through the process of training a deep learning model for 3D organoid segmentation. You will learn how to prepare your data, train your model, and predict segmentation masks using the Stardist 3D demo model.
 
 ## Prerequisites
-- Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.13](https://www.python.org/downloads/release/python-31013/)).
-- Add python to PATH during setup
+- Download and install Python 3.6 - 3.11 (Recommended version [Python 3.10.9](https://www.python.org/downloads/release/python-3109/).
+- Use default settings (see Non-optional python features below) and add python to PATH during setup.
+- Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
+
+## Non-optional Python Features
+
+- [x] **Add python.exe to PATH** 100% do this, the scripts will not be able to find python otherwise.
+
+- [x] **Documentation**
+  _Installs the Python documentation file._
+
+- [x] **pip**
+  _Installs pip, which can download and install other Python packages._
+
+- [x] **tcl/tk and IDLE**
+  _Installs tkinter and the IDLE development environment._
+
+- [x] **Python test suite**
+  _Installs the standard library test suite._
+
+- [ ] **py launcher** [ ] _for all users (requires admin privileges)_
+  _Installs the global 'py' launcher to make it easier to start Python._
+
+
 
 ## Setup (windows)
-1. Clone the repository
-2. Use `start.bat` from the repository
+1. Use `start.bat` from the repository
 
 ## Setup (Linux/Unix-based)
-1. Clone the repository
-2. **Create the Executable:**
+1. **Create the Executable:**
    Before running the script on Linux or Unix-based systems (like MacOS), you need to make it executable.
    ```
    cd 3D_Image_Segmentation
    chmod +x setup.sh
    ```
 
-3. **run the script**
+2. **run the script**
    Simply type `./setup.sh` in the terminal to execute
 
 
