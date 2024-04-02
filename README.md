@@ -63,11 +63,12 @@ After setting up your environment simply run the Jupyter notebooks block for blo
 ### 1_data.ipynb
 - Processes the prepared data for training.
 
+![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/7c6acea0-a8d6-402b-8a1d-37651d92599b)
+
 ### 2_training.ipynb
 - Trains the deep learning model with the configuration provided. Also splits the training data before training.
 
 ![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/5dc4b6ec-98ae-41a9-b465-b3a94ae3fb42)
-
 
 ### 3_prediction.ipynb
 - Validates the trained model using a set-aside image-mask pair.
