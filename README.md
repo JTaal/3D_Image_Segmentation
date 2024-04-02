@@ -68,8 +68,7 @@ After setting up your environment using `start.bat`, run the Jupyter notebooks i
 ### 3_prediction.ipynb
 - Validates the trained model using a set-aside image-mask pair.
 
-![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/6bd403f4-188c-4479-ad58-3e5baf520382)
-
+![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/cb9b4ea2-5071-453f-bb7d-aa853ee3837e)
 
 ## Training Configuration
 - For an average computer, use the following parameters for ~1-4 hours of training time:
