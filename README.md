@@ -60,8 +60,6 @@ After setting up your environment simply run the Jupyter notebooks block for blo
 ### 0_dataprep.ipynb
 - Splits the 2 channel image stacks into individual files for fluorescent images and ground truth masks. Also splits the data into training and testing according to the TRAIN_RATIO. Set TRAIN_RATIO = 1 if you don't want to split the training data.
 
-![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/08e5be56-dbd6-4723-8284-294286ed4c93)
-
 ### 1_data.ipynb
 - Processes the prepared data for training.
 
