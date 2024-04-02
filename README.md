@@ -16,6 +16,7 @@ This tutorial guides you through the process of training a deep learning model f
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
 
 ## Non-optional Python Features
+![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/c495d406-194f-468f-b563-991a81fa0fda)
 
 ![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/5e8b6912-38bb-4512-bcc0-c555316c95e4)
 
@@ -54,7 +55,7 @@ This tutorial guides you through the process of training a deep learning model f
 
 
 ## Running the Notebooks
-After setting up your environment using `start.bat`, run the Jupyter notebooks in the following order:
+After setting up your environment simply run the Jupyter notebooks block for block (everything has been setup) in the following order:
 
 ### 0_dataprep.ipynb
 - Splits the 2 channel image stacks into individual files for fluorescent images and ground truth masks. Also splits the data into training and testing according to the TRAIN_RATIO. Set TRAIN_RATIO = 1 if you don't want to split the training data.
@@ -64,6 +65,9 @@ After setting up your environment using `start.bat`, run the Jupyter notebooks i
 
 ### 2_training.ipynb
 - Trains the deep learning model with the configuration provided. Also splits the training data before training.
+
+![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/5dc4b6ec-98ae-41a9-b465-b3a94ae3fb42)
+
 
 ### 3_prediction.ipynb
 - Validates the trained model using a set-aside image-mask pair.
