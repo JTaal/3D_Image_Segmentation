@@ -55,7 +55,7 @@ This tutorial guides you through the process of training a deep learning model f
 
 
 ## Running the Notebooks
-After setting up your environment simply run the Jupyter notebooks block for block (everything has been setup) in the following order:
+After setting up your environment simply run the Jupyter notebooks block for block (everything has been setup for you) in the following order:
 
 ### 0_dataprep.ipynb
 - Splits the 2 channel image stacks into individual files for fluorescent images and ground truth masks. Also splits the data into training and testing according to the TRAIN_RATIO. Set TRAIN_RATIO = 1 if you don't want to split the training data.
