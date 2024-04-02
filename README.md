@@ -17,6 +17,8 @@ This tutorial guides you through the process of training a deep learning model f
 
 ## Non-optional Python Features
 
+![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/5e8b6912-38bb-4512-bcc0-c555316c95e4)
+
 - [x] **Add python.exe to PATH** 100% do this, the scripts will not be able to find python otherwise.
 
 - [x] **Documentation**
