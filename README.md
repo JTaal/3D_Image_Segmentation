@@ -16,9 +16,11 @@ This tutorial guides you through the process of training a deep learning model f
 - Clone the repository (Green code button then download zip) [download link](https://github.com/JTaal/3D_Image_Segmentation.git)
 
 ## Non-optional Python Features
+- [x] **Add python.exe to PATH** 100% do this, the scripts will not be able to find python otherwise.
+
+
 ![image](https://github.com/JTaal/3D_Image_Segmentation/assets/71385957/c495d406-194f-468f-b563-991a81fa0fda)
 
-- [x] **Add python.exe to PATH** 100% do this, the scripts will not be able to find python otherwise.
 
 - [x] **Documentation**
   _Installs the Python documentation file._
