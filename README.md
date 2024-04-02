@@ -1,4 +1,4 @@
-# User-Guide for 3D Organoid Segmentation using Stardist 3D
+# User-Guide for 3D Organoid Segmentation
 
 [![PyPI version](https://badge.fury.io/py/stardist.svg)](https://pypi.org/project/stardist)
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/stardist/badges/version.svg)](https://anaconda.org/conda-forge/stardist)
